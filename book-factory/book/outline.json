@@ -6,9 +6,10 @@
     {
       "id": 1,
       "title": "مقدمه‌ای بر پردازش توزیع‌شده",
-      "status": "pending",
-      "attempts": 0,
-      "review": "pending"
+      "status": "failed",
+      "attempts": 1,
+      "review": "pending",
+      "last_error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
     },
     {
       "id": 2,
