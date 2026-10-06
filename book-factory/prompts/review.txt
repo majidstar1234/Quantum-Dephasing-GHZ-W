@@ -1,0 +1,23 @@
+فصل زیر را مانند یک ویراستار ارشد فنی بررسی کن.
+
+عنوان: {chapter_title}
+
+متن فصل:
+{chapter_content}
+
+فقط JSON معتبر برگردان و هیچ متن دیگری قبل یا بعد آن ننویس:
+{
+  "approved": true,
+  "score": 0,
+  "summary": "...",
+  "issues": [
+    {"type": "accuracy|structure|language|duplication|unsupported_claim", "severity": "low|medium|high", "description": "..."}
+  ],
+  "revision_instructions": ["..."]
+}
+
+قواعد امتیاز:
+- 90 تا 100: آماده انتشار
+- 75 تا 89: قابل انتشار با اصلاحات جزئی
+- کمتر از 75: نیازمند بازنویسی
+- اگر مسئله مهم علمی/فنی وجود دارد approved=false باشد.

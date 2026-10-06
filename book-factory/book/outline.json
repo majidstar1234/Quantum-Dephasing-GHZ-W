@@ -1,0 +1,21 @@
+{
+  "book_title": "مستندات جامع هوش مصنوعی و سیستم‌ها",
+  "book_subtitle": "راهنمای معماری، اتوماسیون و تولید محتوای فنی",
+  "language": "fa",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "مقدمه‌ای بر پردازش توزیع‌شده",
+      "status": "pending",
+      "attempts": 0,
+      "review": "pending"
+    },
+    {
+      "id": 2,
+      "title": "معماری گیت‌هاب اکشنز در اتوماسیون",
+      "status": "pending",
+      "attempts": 0,
+      "review": "pending"
+    }
+  ]
+}
