@@ -7,9 +7,9 @@
       "id": 1,
       "title": "مقدمه‌ای بر پردازش توزیع‌شده",
       "status": "failed",
-      "attempts": 3,
+      "attempts": 4,
       "review": "pending",
-      "last_error": "[Errno 2] No such file or directory: '/home/runner/work/Quantum-Dephasing-GHZ-W/Quantum-Dephasing-GHZ-W/book-factory/book/chapters/chapter_001.md'"
+      "last_error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
     },
     {
       "id": 2,
